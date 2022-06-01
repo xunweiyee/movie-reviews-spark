@@ -1,0 +1,14 @@
+name: movie_reviews_spark
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - gensim
+  - findspark
+  - jupyterlab
+  - matplotlib
+  - nltk
+  - pandas
+  - pyldavis
+  - pyspark
+  - seaborn
